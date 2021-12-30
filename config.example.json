@@ -1,0 +1,11 @@
+{
+    "target": {
+        "host": "ftp.mywebsapce.eu",
+        "port": "22",
+        "username": "mysftpuser",
+        "password": "passwdForSFTP_user"
+    },
+    "source": [
+        "/var/lib/myservice/dbtobackup.sdb"
+    ]
+}
